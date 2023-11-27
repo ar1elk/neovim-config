@@ -1,0 +1,1 @@
+{"name":"zls","schema_version":"1.1","primary_source":{"id":"pkg:github\/zigtools\/zls@0.11.0","type":"registry+v1"},"links":{"share":{"mason-schemas\/lsp\/zls.json":"mason-schemas\/lsp.json"},"opt":{},"bin":{"zls":"bin\/zls"}},"secondary_sources":[],"metrics":{"completion_time":1701031746346,"start_time":1701031734149}}

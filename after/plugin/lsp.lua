@@ -63,7 +63,7 @@ vim.api.nvim_create_autocmd("bufWritePost", {
 local group = vim.api.nvim_create_augroup("Ruff", { clear = true })
 vim.api.nvim_create_autocmd("bufWritePost", {
 	pattern = "*.py",
-	command = "!ruff %",
+	command = "!ruff --fix %",
 	group = group,
 })
 
