@@ -1,9 +1,9 @@
-[21:15:50.112][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:66]: Lua Lsp startup, root: 	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec
-[21:15:50.112][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:67]: ROOT:	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec
-[21:15:50.112][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: LOGPATH:	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/log
-[21:15:50.112][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: METAPATH:	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta
-[21:15:50.113][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: VERSION:	3.7.3
-[21:15:50.133][info] [#0:script/service/service.lua:144]: 
+[23:11:12.823][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:66]: Lua Lsp startup, root: 	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec
+[23:11:12.823][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:67]: ROOT:	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec
+[23:11:12.823][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: LOGPATH:	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/log
+[23:11:12.823][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: METAPATH:	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta
+[23:11:12.823][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: VERSION:	3.7.3
+[23:11:12.859][info] [#0:script/service/service.lua:144]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 1.345 MB
@@ -25,7 +25,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[21:15:50.136][info] [#0:script/client.lua:657]: Client init	{
+[23:11:12.864][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     textDocument = {
       callHierarchy = {
@@ -184,7 +184,7 @@
     version = "0.9.0"
   },
   initializationOptions = {},
-  processId = 31997,
+  processId = 52752,
   rootPath = "/home/mete0ra/.config/nvim/lua/",
   rootUri = "file:///home/mete0ra/.config/nvim/lua/",
   trace = "off",
@@ -193,13 +193,13 @@
       uri = "file:///home/mete0ra/.config/nvim/lua/"
     } }
 }
-[21:15:50.137][info] [#0:script/language.lua:137]: VSC language: nil
-[21:15:50.137][info] [#0:script/language.lua:138]: LS  language: en-us
-[21:15:50.137][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/mete0ra/.config/nvim/lua/
-[21:15:50.137][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/log/file_home_mete0ra_.config_nvim_lua_.log
-[21:15:50.137][info] [#0:script/workspace/workspace.lua:48]: Workspace create: 	file:///home/mete0ra/.config/nvim/lua/
-[21:15:50.241][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///home/mete0ra/.config/nvim/lua/
-[21:15:50.241][info] [#0:script/provider/provider.lua:47]: {
+[23:11:12.864][info] [#0:script/language.lua:137]: VSC language: nil
+[23:11:12.864][info] [#0:script/language.lua:138]: LS  language: en-us
+[23:11:12.864][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/mete0ra/.config/nvim/lua/
+[23:11:12.864][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/log/file_home_mete0ra_.config_nvim_lua_.log
+[23:11:12.864][info] [#0:script/workspace/workspace.lua:48]: Workspace create: 	file:///home/mete0ra/.config/nvim/lua/
+[23:11:12.967][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///home/mete0ra/.config/nvim/lua/
+[23:11:12.968][info] [#0:script/provider/provider.lua:47]: {
   Lua = {
     diagnostics = {
       globals = { "vim" }
@@ -217,8 +217,8 @@
     }
   }
 }
-[21:15:50.242][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///home/mete0ra/.config/nvim/lua/
-[21:15:50.242][info] [#0:script/provider/provider.lua:47]: {
+[23:11:12.968][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///home/mete0ra/.config/nvim/lua/
+[23:11:12.969][info] [#0:script/provider/provider.lua:47]: {
   Lua = {
     diagnostics = {
       globals = { "vim" }
@@ -236,8 +236,8 @@
     }
   }
 }
-[21:15:50.243][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///home/mete0ra/.config/nvim/lua/
-[21:15:50.244][info] [#0:script/provider/provider.lua:47]: {
+[23:11:12.970][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///home/mete0ra/.config/nvim/lua/
+[23:11:12.970][info] [#0:script/provider/provider.lua:47]: {
   Lua = {
     diagnostics = {
       globals = { "vim" }
@@ -255,8 +255,8 @@
     }
   }
 }
-[21:15:50.244][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
-[21:15:50.245][info] [#0:script/provider/provider.lua:62]: {
+[23:11:12.971][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
+[23:11:12.971][info] [#0:script/provider/provider.lua:62]: {
   Lua = {
     diagnostics = {
       globals = { "vim" }
@@ -274,8 +274,8 @@
     }
   }
 }
-[21:15:50.245][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
-[21:15:50.245][info] [#0:script/provider/provider.lua:62]: {
+[23:11:12.971][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
+[23:11:12.972][info] [#0:script/provider/provider.lua:62]: {
   Lua = {
     diagnostics = {
       globals = { "vim" }
@@ -293,8 +293,8 @@
     }
   }
 }
-[21:15:50.246][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
-[21:15:50.246][info] [#0:script/provider/provider.lua:62]: {
+[23:11:12.972][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
+[23:11:12.973][info] [#0:script/provider/provider.lua:62]: {
   Lua = {
     diagnostics = {
       globals = { "vim" }
@@ -312,312 +312,374 @@
     }
   }
 }
-[21:15:50.348][info] [#0:script/library.lua:212]: Init builtin library at:	file:///home/mete0ra/.config/nvim/lua/
-[21:15:50.400][info] [#0:script/plugin.lua:86]: plugin path:	/home/mete0ra/.config/nvim/lua
-[21:15:50.400][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/mete0ra/.config/nvim/lua
-[21:15:50.400][info] [#0:script/library.lua:212]: Init builtin library at:	nil
-[21:15:50.511][info] [#0:script/workspace/workspace.lua:324]: Preload start:	file:///home/mete0ra/.config/nvim/lua/
-[21:15:50.522][info] [#0:script/workspace/workspace.lua:330]: Scan files at:	file:///home/mete0ra/.config/nvim/lua/
-[21:15:50.523][info] [#0:script/workspace/workspace.lua:324]: Preload start:	<fallback>
-[21:15:50.543][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.546][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.554][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/io.lua
-[21:15:50.554][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/basic.lua
-[21:15:50.554][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/debug.lua
-[21:15:50.554][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/io.lua
-[21:15:50.554][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/package.lua
-[21:15:50.555][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/basic.lua
-[21:15:50.555][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/util.lua
-[21:15:50.555][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/debug.lua
-[21:15:50.555][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/new.lua
-[21:15:50.555][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/package.lua
-[21:15:50.555][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/builtin.lua
-[21:15:50.555][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/util.lua
-[21:15:50.555][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/clear.lua
-[21:15:50.556][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/new.lua
-[21:15:50.556][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string/buffer.lua
-[21:15:50.556][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/builtin.lua
-[21:15:50.556][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua
-[21:15:50.556][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/clear.lua
-[21:15:50.556][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/os.lua
-[21:15:50.556][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string/buffer.lua
-[21:15:50.557][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/bit.lua
-[21:15:50.557][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua
-[21:15:50.557][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string.lua
-[21:15:50.557][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/os.lua
-[21:15:50.557][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/ffi.lua
-[21:15:50.557][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/bit.lua
-[21:15:50.557][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit.lua
-[21:15:50.557][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string.lua
-[21:15:50.557][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.config/nvim/lua
-[21:15:50.558][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/ffi.lua
-[21:15:50.558][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit.lua
-[21:15:50.558][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.config/nvim/lua
-[21:15:50.558][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/profile.lua
-[21:15:50.558][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table.lua
-[21:15:50.558][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/coroutine.lua
-[21:15:50.559][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/profile.lua
-[21:15:50.559][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table.lua
-[21:15:50.559][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/coroutine.lua
-[21:15:50.659][info] [#0:script/workspace/workspace.lua:379]: Found 72 files at:	<fallback>
-[21:15:50.659][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	<fallback>
-[21:15:50.660][info] [#0:script/workspace/workspace.lua:379]: Found 75 files at:	file:///home/mete0ra/.config/nvim/lua/
-[21:15:50.660][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///home/mete0ra/.config/nvim/lua/
-[21:15:50.663][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/coroutine.lua , size = 2.541 KB
-[21:15:50.671][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/coroutine.lua
-[21:15:50.672][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table.lua , size = 4.230 KB
-[21:15:50.683][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table.lua
-[21:15:50.683][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/coroutine.lua
-[21:15:50.683][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table.lua
-[21:15:50.683][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/profile.lua , size = 0.348 KB
-[21:15:50.686][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/profile.lua
-[21:15:50.686][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/profile.lua
-[21:15:50.686][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.config/nvim/lua/base/init.lua , size = 0.021 KB
-[21:15:50.687][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.config/nvim/lua
-[21:15:50.687][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/init.lua
-[21:15:50.687][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.config/nvim/lua/base/remap.lua , size = 0.066 KB
-[21:15:50.688][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.config/nvim/lua
-[21:15:50.688][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/remap.lua
-[21:15:50.688][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.config/nvim/lua/base/packer.lua , size = 1.616 KB
-[21:15:50.693][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.config/nvim/lua
-[21:15:50.693][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/packer.lua
-[21:15:50.693][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit.lua , size = 0.884 KB
-[21:15:50.696][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit.lua
-[21:15:50.696][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit.lua
-[21:15:50.696][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/ffi.lua , size = 2.529 KB
-[21:15:50.702][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/ffi.lua
-[21:15:50.704][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/ffi.lua
-[21:15:50.705][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string.lua , size = 6.323 KB
-[21:15:50.710][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string.lua
-[21:15:50.710][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string.lua
-[21:15:50.710][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/bit.lua , size = 1.320 KB
-[21:15:50.713][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/bit.lua
-[21:15:50.713][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/bit.lua
-[21:15:50.713][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/os.lua , size = 5.600 KB
-[21:15:50.716][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/os.lua
-[21:15:50.717][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/os.lua
-[21:15:50.717][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua , size = 7.949 KB
-[21:15:50.723][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua
-[21:15:50.723][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua
-[21:15:50.723][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string/buffer.lua , size = 18.123 KB
-[21:15:50.727][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string/buffer.lua
-[21:15:50.727][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string/buffer.lua
-[21:15:50.727][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/clear.lua , size = 0.797 KB
-[21:15:50.728][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/clear.lua
-[21:15:50.728][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/clear.lua
-[21:15:50.728][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/builtin.lua , size = 0.302 KB
-[21:15:50.728][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/builtin.lua
-[21:15:50.728][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/builtin.lua
-[21:15:50.728][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/new.lua , size = 0.642 KB
-[21:15:50.729][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/new.lua
-[21:15:50.729][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/util.lua , size = 1.984 KB
-[21:15:50.731][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/util.lua
-[21:15:50.731][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/new.lua
-[21:15:50.731][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/util.lua
-[21:15:50.731][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/package.lua , size = 2.699 KB
-[21:15:50.732][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/package.lua
-[21:15:50.732][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/package.lua
-[21:15:50.732][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/debug.lua , size = 7.310 KB
-[21:15:50.739][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/debug.lua
-[21:15:50.739][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/debug.lua
-[21:15:50.739][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/basic.lua , size = 14.989 KB
-[21:15:50.744][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/basic.lua
-[21:15:50.744][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/basic.lua
-[21:15:50.744][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/io.lua , size = 6.364 KB
-[21:15:50.748][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/io.lua
-[21:15:50.748][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/io.lua
-[21:15:50.748][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/editorconfig.lua , size = 6.716 KB
-[21:15:50.751][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.752][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/editorconfig.lua
-[21:15:50.752][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.752][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/man.lua , size = 24.703 KB
-[21:15:50.767][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.767][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/man.lua
-[21:15:50.767][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/nvim/health.lua , size = 12.706 KB
-[21:15:50.772][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.772][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/nvim/health.lua
-[21:15:50.772][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/_vim9script.lua , size = 15.439 KB
-[21:15:50.779][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.779][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_watch.lua , size = 5.115 KB
-[21:15:50.782][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.782][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/_vim9script.lua
-[21:15:50.782][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_watch.lua
-[21:15:50.782][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/loader.lua , size = 15.990 KB
-[21:15:50.791][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.791][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/loader.lua
-[21:15:50.791][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/F.lua , size = 0.824 KB
-[21:15:50.792][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.792][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/F.lua
-[21:15:50.792][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype/detect.lua , size = 47.479 KB
-[21:15:50.817][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.817][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype/options.lua , size = 2.561 KB
-[21:15:50.818][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.818][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype/options.lua
-[21:15:50.818][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype/detect.lua
-[21:15:50.818][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter.lua , size = 15.442 KB
-[21:15:50.825][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.825][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/keymap.lua , size = 3.573 KB
-[21:15:50.827][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.827][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter.lua
-[21:15:50.827][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/keymap.lua
-[21:15:50.827][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype.lua , size = 74.400 KB
-[21:15:50.865][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.866][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_inspector.lua , size = 7.792 KB
-[21:15:50.869][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.869][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_inspector.lua
-[21:15:50.869][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/health.lua , size = 1.537 KB
-[21:15:50.870][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.870][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/health.lua
-[21:15:50.870][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype.lua
-[21:15:50.870][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/shared.lua , size = 22.392 KB
-[21:15:50.881][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.881][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/shared.lua
-[21:15:50.881][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.881][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_editor.lua , size = 29.339 KB
-[21:15:50.894][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.894][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/secure.lua , size = 4.830 KB
-[21:15:50.897][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.897][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_editor.lua
-[21:15:50.897][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/secure.lua
-[21:15:50.897][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/fs.lua , size = 10.662 KB
-[21:15:50.902][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.902][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/fs.lua
-[21:15:50.902][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/diagnostic.lua , size = 56.640 KB
-[21:15:50.925][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.925][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/inspect.lua , size = 8.864 KB
-[21:15:50.929][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.929][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/diagnostic.lua
-[21:15:50.929][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/inspect.lua
-[21:15:50.929][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/tagfunc.lua , size = 2.339 KB
-[21:15:50.931][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.931][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/tagfunc.lua
-[21:15:50.931][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/_watchfiles.lua , size = 9.196 KB
-[21:15:50.935][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.935][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/_watchfiles.lua
-[21:15:50.935][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/handlers.lua , size = 23.587 KB
-[21:15:50.945][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.945][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/handlers.lua
-[21:15:50.945][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.945][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/_snippet.lua , size = 10.744 KB
-[21:15:50.952][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.952][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/health.lua , size = 1.240 KB
-[21:15:50.967][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.967][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/health.lua
-[21:15:50.967][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/_snippet.lua
-[21:15:50.967][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/protocol.lua , size = 28.367 KB
-[21:15:50.972][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.973][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/rpc.lua , size = 23.695 KB
-[21:15:50.982][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.982][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/protocol.lua
-[21:15:50.982][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/rpc.lua
-[21:15:50.982][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/semantic_tokens.lua , size = 24.755 KB
-[21:15:50.991][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:50.991][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/semantic_tokens.lua
-[21:15:50.991][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/buf.lua , size = 27.860 KB
-[21:15:51.001][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.001][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/buf.lua
-[21:15:51.001][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/util.lua , size = 70.763 KB
-[21:15:51.031][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.031][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/log.lua , size = 5.151 KB
-[21:15:51.034][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.034][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/util.lua
-[21:15:51.034][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/log.lua
-[21:15:51.034][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/diagnostic.lua , size = 8.867 KB
-[21:15:51.038][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.038][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/diagnostic.lua
-[21:15:51.038][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/sync.lua , size = 15.681 KB
-[21:15:51.044][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.044][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/sync.lua
-[21:15:51.044][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/codelens.lua , size = 8.261 KB
-[21:15:51.048][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.048][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/types.lua , size = 0.924 KB
-[21:15:51.049][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.049][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/codelens.lua
-[21:15:51.049][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/types.lua
-[21:15:51.049][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.049][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp.lua , size = 82.409 KB
-[21:15:51.079][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.079][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/ui.lua , size = 3.672 KB
-[21:15:51.101][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.101][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/ui.lua
-[21:15:51.101][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp.lua
-[21:15:51.101][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/highlighter.lua , size = 8.609 KB
-[21:15:51.107][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.107][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/highlighter.lua
-[21:15:51.107][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/playground.lua , size = 12.551 KB
-[21:15:51.113][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.113][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/playground.lua
-[21:15:51.113][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/health.lua , size = 0.888 KB
-[21:15:51.114][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.114][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/health.lua
-[21:15:51.114][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/languagetree.lua , size = 26.168 KB
-[21:15:51.127][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.127][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_range.lua , size = 3.646 KB
-[21:15:51.130][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.130][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_range.lua
-[21:15:51.130][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/languagetree.lua
-[21:15:51.130][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/query.lua , size = 21.253 KB
-[21:15:51.140][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.140][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/language.lua , size = 3.528 KB
-[21:15:51.142][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.142][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/query.lua
-[21:15:51.142][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/language.lua
-[21:15:51.142][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_meta.lua , size = 2.839 KB
-[21:15:51.144][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.144][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_meta.lua
-[21:15:51.145][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_fold.lua , size = 6.753 KB
-[21:15:51.149][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.149][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_fold.lua
-[21:15:51.149][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_meta.lua , size = 12.077 KB
-[21:15:51.155][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.155][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_meta.lua
-[21:15:51.155][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_init_packages.lua , size = 2.773 KB
-[21:15:51.156][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.156][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_init_packages.lua
-[21:15:51.156][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/version.lua , size = 12.146 KB
-[21:15:51.162][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.162][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/version.lua
-[21:15:51.162][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/highlight.lua , size = 3.749 KB
-[21:15:51.164][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.164][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/highlight.lua
-[21:15:51.164][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.164][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/init.lua
-[21:15:51.164][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/remap.lua
-[21:15:51.164][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/packer.lua
-[21:15:51.164][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/uri.lua , size = 3.376 KB
-[21:15:51.166][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
-[21:15:51.166][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/uri.lua
-[21:15:51.166][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.520] sec: file:///home/mete0ra/.config/nvim/lua/
-[21:15:51.166][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///home/mete0ra/.config/nvim/lua/
-[21:15:51.166][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///home/mete0ra/.config/nvim/lua/
-[21:15:51.166][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	file:///home/mete0ra/.config/nvim/lua/
-[21:15:51.275][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.529] sec: <fallback>
-[21:15:51.275][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: <fallback>
-[21:15:51.275][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	<fallback>
-[21:15:51.276][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	<fallback>
-[21:15:51.312][warn] [#0:script/proto/proto.lua:190]: Method [textDocument/didOpen] takes [0.690]sec. {
+[23:11:13.075][info] [#0:script/library.lua:212]: Init builtin library at:	file:///home/mete0ra/.config/nvim/lua/
+[23:11:13.126][info] [#0:script/plugin.lua:86]: plugin path:	/home/mete0ra/.config/nvim/lua
+[23:11:13.126][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/mete0ra/.config/nvim/lua
+[23:11:13.126][info] [#0:script/library.lua:212]: Init builtin library at:	nil
+[23:11:13.236][info] [#0:script/workspace/workspace.lua:324]: Preload start:	file:///home/mete0ra/.config/nvim/lua/
+[23:11:13.248][info] [#0:script/workspace/workspace.lua:330]: Scan files at:	file:///home/mete0ra/.config/nvim/lua/
+[23:11:13.249][info] [#0:script/workspace/workspace.lua:324]: Preload start:	<fallback>
+[23:11:13.267][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.270][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.277][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/io.lua
+[23:11:13.278][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/basic.lua
+[23:11:13.278][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/debug.lua
+[23:11:13.278][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/io.lua
+[23:11:13.278][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/package.lua
+[23:11:13.278][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/basic.lua
+[23:11:13.278][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/util.lua
+[23:11:13.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/debug.lua
+[23:11:13.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/new.lua
+[23:11:13.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/package.lua
+[23:11:13.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/builtin.lua
+[23:11:13.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/util.lua
+[23:11:13.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/clear.lua
+[23:11:13.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/new.lua
+[23:11:13.279][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string/buffer.lua
+[23:11:13.280][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/builtin.lua
+[23:11:13.280][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua
+[23:11:13.280][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/clear.lua
+[23:11:13.280][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/os.lua
+[23:11:13.280][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string/buffer.lua
+[23:11:13.280][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/bit.lua
+[23:11:13.280][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua
+[23:11:13.280][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string.lua
+[23:11:13.281][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/os.lua
+[23:11:13.281][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/ffi.lua
+[23:11:13.281][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/bit.lua
+[23:11:13.281][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit.lua
+[23:11:13.281][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string.lua
+[23:11:13.281][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.config/nvim/lua
+[23:11:13.281][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/ffi.lua
+[23:11:13.282][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit.lua
+[23:11:13.282][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.config/nvim/lua
+[23:11:13.282][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/profile.lua
+[23:11:13.282][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table.lua
+[23:11:13.282][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/coroutine.lua
+[23:11:13.282][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/profile.lua
+[23:11:13.282][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table.lua
+[23:11:13.283][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/coroutine.lua
+[23:11:13.383][info] [#0:script/workspace/workspace.lua:379]: Found 72 files at:	<fallback>
+[23:11:13.383][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	<fallback>
+[23:11:13.383][info] [#0:script/workspace/workspace.lua:379]: Found 75 files at:	file:///home/mete0ra/.config/nvim/lua/
+[23:11:13.383][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///home/mete0ra/.config/nvim/lua/
+[23:11:13.386][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/coroutine.lua , size = 2.541 KB
+[23:11:13.395][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/coroutine.lua
+[23:11:13.395][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table.lua , size = 4.230 KB
+[23:11:13.407][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table.lua
+[23:11:13.407][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table.lua
+[23:11:13.407][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/profile.lua , size = 0.348 KB
+[23:11:13.410][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/profile.lua
+[23:11:13.410][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/profile.lua
+[23:11:13.410][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/coroutine.lua
+[23:11:13.410][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.config/nvim/lua/base/init.lua , size = 0.021 KB
+[23:11:13.411][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.config/nvim/lua
+[23:11:13.411][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/init.lua
+[23:11:13.411][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.config/nvim/lua/base/remap.lua , size = 0.021 KB
+[23:11:13.412][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.config/nvim/lua
+[23:11:13.412][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/remap.lua
+[23:11:13.412][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.config/nvim/lua/base/packer.lua , size = 1.719 KB
+[23:11:13.417][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.config/nvim/lua
+[23:11:13.417][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit.lua , size = 0.884 KB
+[23:11:13.420][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit.lua
+[23:11:13.420][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/packer.lua
+[23:11:13.420][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit.lua
+[23:11:13.420][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/ffi.lua , size = 2.529 KB
+[23:11:13.426][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/ffi.lua
+[23:11:13.426][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/ffi.lua
+[23:11:13.426][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string.lua , size = 6.323 KB
+[23:11:13.435][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string.lua
+[23:11:13.435][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string.lua
+[23:11:13.435][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/bit.lua , size = 1.320 KB
+[23:11:13.437][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/bit.lua
+[23:11:13.437][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/bit.lua
+[23:11:13.437][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/os.lua , size = 5.600 KB
+[23:11:13.441][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/os.lua
+[23:11:13.441][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/os.lua
+[23:11:13.441][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua , size = 7.949 KB
+[23:11:13.448][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua
+[23:11:13.448][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua
+[23:11:13.448][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/math.lua
+[23:11:13.448][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string/buffer.lua , size = 18.123 KB
+[23:11:13.452][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string/buffer.lua
+[23:11:13.452][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/clear.lua , size = 0.797 KB
+[23:11:13.452][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/clear.lua
+[23:11:13.452][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/clear.lua
+[23:11:13.452][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/string/buffer.lua
+[23:11:13.452][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/builtin.lua , size = 0.302 KB
+[23:11:13.453][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/builtin.lua
+[23:11:13.453][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/new.lua , size = 0.642 KB
+[23:11:13.453][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/new.lua
+[23:11:13.454][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/builtin.lua
+[23:11:13.454][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/table/new.lua
+[23:11:13.454][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/util.lua , size = 1.984 KB
+[23:11:13.455][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/util.lua
+[23:11:13.455][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/jit/util.lua
+[23:11:13.455][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/package.lua , size = 2.699 KB
+[23:11:13.457][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/package.lua
+[23:11:13.457][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/package.lua
+[23:11:13.457][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/debug.lua , size = 7.310 KB
+[23:11:13.461][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/debug.lua
+[23:11:13.461][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/debug.lua
+[23:11:13.461][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/basic.lua , size = 14.989 KB
+[23:11:13.470][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/basic.lua
+[23:11:13.470][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/io.lua , size = 6.364 KB
+[23:11:13.473][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/io.lua
+[23:11:13.473][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/io.lua
+[23:11:13.473][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/LuaJIT%20en-us%20utf8/basic.lua
+[23:11:13.473][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/editorconfig.lua , size = 6.716 KB
+[23:11:13.477][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.477][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/editorconfig.lua
+[23:11:13.477][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/man.lua , size = 24.703 KB
+[23:11:13.489][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.489][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/man.lua
+[23:11:13.490][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/nvim/health.lua , size = 12.706 KB
+[23:11:13.499][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.499][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/nvim/health.lua
+[23:11:13.499][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/_vim9script.lua , size = 15.439 KB
+[23:11:13.506][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.506][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_watch.lua , size = 5.115 KB
+[23:11:13.508][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.508][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/_vim9script.lua
+[23:11:13.509][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_watch.lua
+[23:11:13.509][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/loader.lua , size = 15.990 KB
+[23:11:13.517][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.517][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/loader.lua
+[23:11:13.518][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/F.lua , size = 0.824 KB
+[23:11:13.518][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.518][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/F.lua
+[23:11:13.518][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype/detect.lua , size = 47.479 KB
+[23:11:13.545][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.545][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype/detect.lua
+[23:11:13.545][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype/options.lua , size = 2.561 KB
+[23:11:13.547][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.547][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype/options.lua
+[23:11:13.547][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter.lua , size = 15.442 KB
+[23:11:13.554][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.554][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter.lua
+[23:11:13.554][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/keymap.lua , size = 3.573 KB
+[23:11:13.555][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.555][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/keymap.lua
+[23:11:13.555][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype.lua , size = 74.400 KB
+[23:11:13.585][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.586][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/filetype.lua
+[23:11:13.586][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_inspector.lua , size = 7.792 KB
+[23:11:13.590][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.590][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/health.lua , size = 1.537 KB
+[23:11:13.591][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.591][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_inspector.lua
+[23:11:13.591][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/health.lua
+[23:11:13.591][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/shared.lua , size = 22.392 KB
+[23:11:13.612][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.612][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/shared.lua
+[23:11:13.612][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_editor.lua , size = 29.339 KB
+[23:11:13.624][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.624][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_editor.lua
+[23:11:13.624][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.625][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/secure.lua , size = 4.830 KB
+[23:11:13.627][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.627][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/fs.lua , size = 10.662 KB
+[23:11:13.632][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.632][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/secure.lua
+[23:11:13.632][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/fs.lua
+[23:11:13.632][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/diagnostic.lua , size = 56.640 KB
+[23:11:13.655][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.655][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/inspect.lua , size = 8.864 KB
+[23:11:13.660][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.660][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/diagnostic.lua
+[23:11:13.660][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/inspect.lua
+[23:11:13.660][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/tagfunc.lua , size = 2.339 KB
+[23:11:13.662][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.662][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/tagfunc.lua
+[23:11:13.662][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/_watchfiles.lua , size = 9.196 KB
+[23:11:13.666][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.666][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/_watchfiles.lua
+[23:11:13.666][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/handlers.lua , size = 23.587 KB
+[23:11:13.676][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.676][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/_snippet.lua , size = 10.744 KB
+[23:11:13.683][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.683][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/handlers.lua
+[23:11:13.683][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/_snippet.lua
+[23:11:13.683][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/health.lua , size = 1.240 KB
+[23:11:13.684][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.684][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/health.lua
+[23:11:13.684][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/protocol.lua , size = 28.367 KB
+[23:11:13.690][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.690][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/protocol.lua
+[23:11:13.690][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.690][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/rpc.lua , size = 23.695 KB
+[23:11:13.700][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.701][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/rpc.lua
+[23:11:13.701][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/semantic_tokens.lua , size = 24.755 KB
+[23:11:13.725][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.725][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/semantic_tokens.lua
+[23:11:13.725][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/buf.lua , size = 27.860 KB
+[23:11:13.736][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.736][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/buf.lua
+[23:11:13.736][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/util.lua , size = 70.763 KB
+[23:11:13.765][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.766][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/log.lua , size = 5.151 KB
+[23:11:13.768][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.768][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/util.lua
+[23:11:13.768][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/log.lua
+[23:11:13.768][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/diagnostic.lua , size = 8.867 KB
+[23:11:13.773][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.773][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/diagnostic.lua
+[23:11:13.773][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/sync.lua , size = 15.681 KB
+[23:11:13.778][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.778][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/sync.lua
+[23:11:13.778][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/codelens.lua , size = 8.261 KB
+[23:11:13.783][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.783][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/types.lua , size = 0.924 KB
+[23:11:13.783][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.783][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/codelens.lua
+[23:11:13.783][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp/types.lua
+[23:11:13.783][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp.lua , size = 82.409 KB
+[23:11:13.816][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.816][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/lsp.lua
+[23:11:13.816][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/ui.lua , size = 3.672 KB
+[23:11:13.818][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.818][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/highlighter.lua , size = 8.609 KB
+[23:11:13.823][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.823][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/ui.lua
+[23:11:13.823][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/highlighter.lua
+[23:11:13.823][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/playground.lua , size = 12.551 KB
+[23:11:13.830][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.830][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/playground.lua
+[23:11:13.830][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/health.lua , size = 0.888 KB
+[23:11:13.831][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.831][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/health.lua
+[23:11:13.831][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/languagetree.lua , size = 26.168 KB
+[23:11:13.845][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.845][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/languagetree.lua
+[23:11:13.845][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_range.lua , size = 3.646 KB
+[23:11:13.869][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.869][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_range.lua
+[23:11:13.870][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/query.lua , size = 21.253 KB
+[23:11:13.880][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.880][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/query.lua
+[23:11:13.880][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/language.lua , size = 3.528 KB
+[23:11:13.883][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.883][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/language.lua
+[23:11:13.883][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_meta.lua , size = 2.839 KB
+[23:11:13.885][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.885][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_meta.lua
+[23:11:13.885][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_fold.lua , size = 6.753 KB
+[23:11:13.889][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.889][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/treesitter/_fold.lua
+[23:11:13.889][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_meta.lua , size = 12.077 KB
+[23:11:13.896][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.896][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_meta.lua
+[23:11:13.896][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.896][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/init.lua
+[23:11:13.896][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_init_packages.lua , size = 2.773 KB
+[23:11:13.898][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.898][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/_init_packages.lua
+[23:11:13.898][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/version.lua , size = 12.146 KB
+[23:11:13.904][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.904][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/version.lua
+[23:11:13.904][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/highlight.lua , size = 3.749 KB
+[23:11:13.906][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.906][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/highlight.lua
+[23:11:13.906][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/uri.lua , size = 3.376 KB
+[23:11:13.908][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua
+[23:11:13.908][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/mete0ra/nvim-linux64/share/nvim/runtime/lua/vim/uri.lua
+[23:11:13.908][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/remap.lua
+[23:11:13.908][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/mete0ra/.config/nvim/lua/base/packer.lua
+[23:11:13.908][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.538] sec: file:///home/mete0ra/.config/nvim/lua/
+[23:11:13.909][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///home/mete0ra/.config/nvim/lua/
+[23:11:13.909][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///home/mete0ra/.config/nvim/lua/
+[23:11:13.909][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	file:///home/mete0ra/.config/nvim/lua/
+[23:11:14.017][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.547] sec: <fallback>
+[23:11:14.018][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: <fallback>
+[23:11:14.018][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	<fallback>
+[23:11:14.018][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	<fallback>
+[23:11:14.053][warn] [#0:script/proto/proto.lua:190]: Method [textDocument/didOpen] takes [0.704]sec. {
   jsonrpc = "2.0",
   method = "textDocument/didOpen",
   params = {
     textDocument = {
       languageId = "lua",
       text = '"***"',
-      uri = "file:///home/mete0ra/.config/nvim/after/plugin/lsp.lua",
+      uri = "file:///home/mete0ra/.config/nvim/after/plugin/tree.lua",
       version = 0
     }
   }
 }
-[21:15:51.335][warn] [#0:script/proto/proto.lua:190]: Method [textDocument/semanticTokens/full] takes [0.638]sec. {
+[23:11:14.070][warn] [#0:script/proto/proto.lua:190]: Method [textDocument/semanticTokens/full] takes [0.647]sec. {
   id = 8,
   jsonrpc = "2.0",
   method = "textDocument/semanticTokens/full",
   params = {
     textDocument = {
-      uri = "file:///home/mete0ra/.config/nvim/after/plugin/lsp.lua"
+      uri = "file:///home/mete0ra/.config/nvim/after/plugin/tree.lua"
     }
   }
 }
-[21:15:52.276][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/mete0ra/.config/nvim/lua/], files count:[72]
-[21:15:52.324][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/mete0ra/.config/nvim/lua/] finished, takes [0.049] sec.
-[21:16:55.737][info] [#0:script/provider/provider.lua:169]: Server shutdown.
-[21:16:55.737][warn] [#0:script/pub/report.lua:25]: Load proto error:	Disconnected!
+[23:11:15.009][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/mete0ra/.config/nvim/lua/], files count:[72]
+[23:11:15.051][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/mete0ra/.config/nvim/lua/] finished, takes [0.044] sec.
+[23:13:08.995][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:13:16.638][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:13:21.995][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:13:22.425][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:13:26.244][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:13:30.195][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:17:45.508][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:19:16.754][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:20:06.096][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:21:12.972][info] [#0:script/service/service.lua:144]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 58.806 MB
+        # 00 : 58.457 MB
+        # 01 : 0.053 MB
+        # 02 : 0.053 MB
+        # 03 : 0.107 MB
+        # 04 : 0.136 MB
+    --------------- Coroutine ---------------
+        Total:     34
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      34
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[23:21:35.043][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:22:23.027][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:23:35.385][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:24:01.410][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:24:03.203][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:24:13.109][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:24:14.306][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:28:17.090][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:31:04.759][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:31:12.982][info] [#0:script/service/service.lua:144]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 64.743 MB
+        # 00 : 64.395 MB
+        # 01 : 0.053 MB
+        # 02 : 0.053 MB
+        # 03 : 0.107 MB
+        # 04 : 0.136 MB
+    --------------- Coroutine ---------------
+        Total:     46
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      46
+    --------------- Cache ---------------
+        Total: 3
+        Dead:  2
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[23:31:30.495][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/mete0ra/.config/nvim/after/plugin/tree.lua
+[23:31:46.185][info] [#0:script/provider/provider.lua:169]: Server shutdown.
+[23:31:46.186][warn] [#0:script/pub/report.lua:25]: Load proto error:	Disconnected!

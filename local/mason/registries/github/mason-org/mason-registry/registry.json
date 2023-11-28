@@ -3086,7 +3086,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:pypi/esbonio@0.16.2"
+      "id": "pkg:pypi/esbonio@0.16.3"
     },
     "bin": {
       "esbonio": "pypi:esbonio"
@@ -3131,7 +3131,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:npm/eslint_d@13.1.0"
+      "id": "pkg:npm/eslint_d@13.1.1"
     },
     "bin": {
       "eslint_d": "npm:eslint_d"
@@ -3458,7 +3458,7 @@
     "languages": [],
     "categories": [],
     "source": {
-      "id": "pkg:github/cli/cli@v2.39.1",
+      "id": "pkg:github/cli/cli@v2.39.2",
       "asset": [
         {
           "target": "darwin_x64",
@@ -3895,7 +3895,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:golang/golang.org/x/tools@v0.15.0#cmd/goimports"
+      "id": "pkg:golang/golang.org/x/tools@v0.16.0#cmd/goimports"
     },
     "bin": {
       "goimports": "golang:goimports"
@@ -6175,7 +6175,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:cargo/neocmakelsp@0.6.14"
+      "id": "pkg:cargo/neocmakelsp@0.6.15"
     },
     "bin": {
       "neocmakelsp": "cargo:neocmakelsp"
@@ -6889,7 +6889,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/perlnavigator-server@0.7.11"
+      "id": "pkg:npm/perlnavigator-server@0.7.13"
     },
     "schemas": {
       "lsp": "vscode:https://raw.githubusercontent.com/bscan/PerlNavigator/v{{version}}/package.json"
@@ -7073,7 +7073,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/phpstan/phpstan@1.10.44",
+      "id": "pkg:github/phpstan/phpstan@1.10.45",
       "asset": {
         "file": "phpstan.phar"
       }
@@ -7507,7 +7507,7 @@
       "DAP"
     ],
     "source": {
-      "id": "pkg:github/puppetlabs/puppet-editor-services@v1.3.1",
+      "id": "pkg:github/puppetlabs/puppet-editor-services@v2.0.0",
       "asset": {
         "file": "puppet_editor_services_{{version}}.zip:libexec/"
       }
@@ -8399,7 +8399,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/rust-lang/rust-analyzer@2023-11-20",
+      "id": "pkg:github/rust-lang/rust-analyzer@2023-11-27",
       "asset": [
         {
           "target": "linux_x64_gnu",
@@ -8957,7 +8957,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/snyk/snyk-ls@v20231124.094209",
+      "id": "pkg:github/snyk/snyk-ls@v20231127.172429",
       "asset": [
         {
           "target": "darwin_x64",
@@ -9015,7 +9015,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/snyk/cli@v1.1253.0",
+      "id": "pkg:github/snyk/cli@v1.1255.0",
       "asset": [
         {
           "target": "darwin_x64",
@@ -9266,9 +9266,9 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/SonarSource/sonarlint-vscode@4.0.1%2b75740",
+      "id": "pkg:github/SonarSource/sonarlint-vscode@4.1.0%2b75809",
       "asset": {
-        "file": "sonarlint-vscode-4.0.1.vsix"
+        "file": "sonarlint-vscode-4.1.0.vsix"
       }
     },
     "bin": {
@@ -10523,7 +10523,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/typescript-language-server@4.1.2",
+      "id": "pkg:npm/typescript-language-server@4.1.3",
       "extra_packages": [
         "typescript"
       ]
