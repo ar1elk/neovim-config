@@ -1,9 +1,9 @@
-[23:11:12.823][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:66]: Lua Lsp startup, root: 	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec
-[23:11:12.823][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:67]: ROOT:	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec
-[23:11:12.823][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: LOGPATH:	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/log
-[23:11:12.823][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: METAPATH:	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/meta
-[23:11:12.823][info] [#0:/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: VERSION:	3.7.3
-[23:11:12.859][info] [#0:script/service/service.lua:144]: 
+[12:53:30.403][info] [#0:/home/sn1peR/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:66]: Lua Lsp startup, root: 	/home/sn1peR/.local/share/nvim/mason/packages/lua-language-server/libexec
+[12:53:30.403][info] [#0:/home/sn1peR/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:67]: ROOT:	/home/sn1peR/.local/share/nvim/mason/packages/lua-language-server/libexec
+[12:53:30.403][info] [#0:/home/sn1peR/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: LOGPATH:	/home/sn1peR/.local/share/nvim/mason/packages/lua-language-server/libexec/log
+[12:53:30.403][info] [#0:/home/sn1peR/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: METAPATH:	/home/sn1peR/.local/share/nvim/mason/packages/lua-language-server/libexec/meta
+[12:53:30.403][info] [#0:/home/sn1peR/.local/share/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: VERSION:	3.7.4
+[12:53:30.420][info] [#0:script/service/service.lua:144]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 1.345 MB
@@ -25,7 +25,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[23:11:12.864][info] [#0:script/client.lua:657]: Client init	{
+[12:53:30.422][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     textDocument = {
       callHierarchy = {
@@ -184,16 +184,16 @@
     version = "0.9.0"
   },
   initializationOptions = {},
-  processId = 52752,
-  rootPath = "/home/mete0ra/.config/nvim/lua/",
-  rootUri = "file:///home/mete0ra/.config/nvim/lua/",
+  processId = 15594,
+  rootPath = "/home/sn1peR/.config/nvim/lua/",
+  rootUri = "file:///home/sn1peR/.config/nvim/lua/",
   trace = "off",
   workspaceFolders = { {
-      name = "/home/mete0ra/.config/nvim/lua/",
-      uri = "file:///home/mete0ra/.config/nvim/lua/"
+      name = "/home/sn1peR/.config/nvim/lua/",
+      uri = "file:///home/sn1peR/.config/nvim/lua/"
     } }
 }
-[23:11:12.864][info] [#0:script/language.lua:137]: VSC language: nil
-[23:11:12.864][info] [#0:script/language.lua:138]: LS  language: en-us
-[23:11:12.864][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/mete0ra/.config/nvim/lua/
-[23:11:12.864][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/mete0ra/.local/share/nvim/mason/packages/lua-language-server/libexec/log/file_home_mete0ra_.config_nvim_lua_.log
+[12:53:30.422][info] [#0:script/language.lua:137]: VSC language: nil
+[12:53:30.422][info] [#0:script/language.lua:138]: LS  language: en-us
+[12:53:30.422][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/sn1peR/.config/nvim/lua/
+[12:53:30.422][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/sn1peR/.local/share/nvim/mason/packages/lua-language-server/libexec/log/file_home_sn1peR_.config_nvim_lua_.log
