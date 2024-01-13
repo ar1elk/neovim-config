@@ -27,6 +27,8 @@ return require('packer').startup(function(use)
 	use('ThePrimeagen/harpoon')
 	use('mbbill/undotree')
 	use('tpope/vim-fugitive')
+	-- rust
+	use {'mrcjkb/rustaceanvim', version = '^3', ft = {'rust'},}
 	use {
 		'nvim-tree/nvim-tree.lua',
 		requires = {
