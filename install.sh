@@ -1,10 +1,11 @@
 #!/bin/bash
 
 # Install linters
-cd linters && npm install prettier
+npm install -g --save-dev --save-exact prettier
 echo 'export GOPATH=$(go env GOPATH)' >> ~/.zshrc
 export GOPATH=$(go env GOPATH)
 mkdir -p $GOPATH/bin
+cd linters
 cp golangci-lint $GOPATH/bin
 cp goimports $GOPATH/bin
 echo 'export PATH=$PATH:$GOPATH/bin' >> ~/.zshrc

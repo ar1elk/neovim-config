@@ -69,14 +69,14 @@ vim.api.nvim_create_autocmd("bufWritePost", {
 
 
 local group = vim.api.nvim_create_augroup("goimports", { clear = true })
-vim.api.nvim_create_autocmd("bufWritePost", {
+vim.api.nvim_create_autocmd("bufWritePre", {
 	pattern = "*.go",
 	command = "%! goimports",
 	group = group,
 })
 
 local group = vim.api.nvim_create_augroup("golint", { clear = true })
-vim.api.nvim_create_autocmd("bufWritePost", {
+vim.api.nvim_create_autocmd("bufWritePre", {
 	pattern = "*.go",
 	command = "!golangci-lint run %",
 	group = group,
@@ -86,6 +86,6 @@ vim.api.nvim_create_autocmd("bufWritePost", {
 local group = vim.api.nvim_create_augroup("prettier", { clear = true })
 vim.api.nvim_create_autocmd("bufWritePost", {
 	pattern = "*.ts,*.tsx,*.js",
-	command = "!prettier . --write %",
+	command = "!npx prettier . --write %",
 	group = group,
 })
