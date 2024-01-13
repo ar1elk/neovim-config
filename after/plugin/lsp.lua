@@ -85,7 +85,7 @@ vim.api.nvim_create_autocmd("bufWritePost", {
 
 local group = vim.api.nvim_create_augroup("prettier", { clear = true })
 vim.api.nvim_create_autocmd("bufWritePost", {
-	pattern = "*.ts",
+	pattern = "*.ts,*.tsx,*.js",
 	command = "!prettier . --write %",
 	group = group,
 })

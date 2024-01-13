@@ -1,0 +1,3 @@
+linters/prettier/node_modules
+linters/prettier/package.json
+linters/prettier/package-lock.json

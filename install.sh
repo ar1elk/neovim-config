@@ -2,8 +2,13 @@
 
 # Install linters
 cd linters && npm install prettier
-cp golangci-lint ~/go
-cp goimports ~/go
+echo 'export GOPATH=$(go env GOPATH)' >> ~/.zshrc
+export GOPATH=$(go env GOPATH)
+mkdir -p $GOPATH/bin
+cp golangci-lint $GOPATH/bin
+cp goimports $GOPATH/bin
+echo 'export PATH=$PATH:$GOPATH/bin' >> ~/.zshrc
+export PATH=$PATH:$GOPATH/bin
 
 # Delete old nvim configuration
 rm -rf ~/.config/nvim/*

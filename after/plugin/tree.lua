@@ -7,8 +7,6 @@ vim.opt.termguicolors = true
 
 require("nvim-tree").setup()
 
-if vim.fn.argc(-1) == 0 then
-  vim.cmd("NvimTreeOpen")
-end
+vim.cmd("NvimTreeOpen")
 
 
