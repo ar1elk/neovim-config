@@ -21,14 +21,12 @@ return require('packer').startup(function(use)
 		requires = { {'nvim-lua/plenary.nvim'} }
 	}
 	use('neoclide/coc.nvim', {branch = 'release', run = 'npm ci'})
-	use("ntk148v/komau.vim")
+	use('slugbyte/lackluster.nvim')
 	use('nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
 	use('nvim-treesitter/playground')
 	use('ThePrimeagen/harpoon')
 	use('mbbill/undotree')
 	use('tpope/vim-fugitive')
-	-- rust
-	use {'mrcjkb/rustaceanvim', version = '^3', ft = {'rust'},}
 	use {
 		'nvim-tree/nvim-tree.lua',
 		requires = {

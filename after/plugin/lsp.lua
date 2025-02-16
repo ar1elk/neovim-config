@@ -24,12 +24,24 @@ end)
 
 require('mason').setup({})
 require('mason-lspconfig').setup({
-	ensure_installed = { 'tsserver', 'rust_analyzer', 'zls', 'gopls', 'lua_ls', 'pylsp' },
+	ensure_installed = { 'ts_ls', 'rust_analyzer', 'zls', 'gopls', 'lua_ls', 'pylsp' },
 	handlers = {
 		lsp_zero.default_setup,
 		lua_ls = function()
 			local lua_opts = lsp_zero.nvim_lua_ls()
 			require('lspconfig').lua_ls.setup(lua_opts)
+			require('lspconfig').pylsp.setup{
+				settings = {
+					pylsp = {
+						plugins = {
+                                                	pycodestyle = { enabled = false }, -- Disable pycodestyle if you don’t want linting errors
+                                                    	pylint = { enabled = false },      -- Optional, you can disable this if you want
+                					rope_autoimport = { enabled = true }, -- Rope auto-imports
+                					isort = { enabled = true },        -- Enable isort for sorting imports
+						}
+					}
+				}
+			}
 		end,
 	}
 })
@@ -63,7 +75,7 @@ vim.api.nvim_create_autocmd("bufWritePost", {
 local group = vim.api.nvim_create_augroup("Ruff", { clear = true })
 vim.api.nvim_create_autocmd("bufWritePost", {
 	pattern = "*.py",
-	command = "!ruff --fix %",
+	command = "!ruff check --fix %",
 	group = group,
 })
 
